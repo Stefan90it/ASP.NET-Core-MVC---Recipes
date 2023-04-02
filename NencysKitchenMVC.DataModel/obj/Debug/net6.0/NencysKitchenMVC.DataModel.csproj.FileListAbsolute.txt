@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\obj\Debug\net6.0\NencysKitchenMVC.DataModel.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\obj\Debug\net6.0\NencysKitchenMVC.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\obj\Debug\net6.0\NencysKitchenMVC.DataModel.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\obj\Debug\net6.0\NencysKitchenMVC.DataModel.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\obj\Debug\net6.0\NencysKitchenMVC.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\bin\Debug\net6.0\NencysKitchenMVC.DataModel.deps.json
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\bin\Debug\net6.0\NencysKitchenMVC.DataModel.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\bin\Debug\net6.0\NencysKitchenMVC.DataModel.pdb
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\obj\Debug\net6.0\NencysKitchenMVC.DataModel.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\obj\Debug\net6.0\refint\NencysKitchenMVC.DataModel.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\obj\Debug\net6.0\NencysKitchenMVC.DataModel.pdb
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.DataModel\obj\Debug\net6.0\ref\NencysKitchenMVC.DataModel.dll

@@ -1,0 +1,25 @@
+﻿@model IEnumerable<RecipeViewModel>
+
+    <partial name="_Carousel" />
+
+<div class="text-center">
+    <img src="Img/Nencys-Kitchen-Logomark.png" class="logo-mark mx-auto" />
+    <h1>Recepti za ovu nedelju</h1>
+    <h5>
+        Izaberite vaše omiljeno jelo
+    </h5>
+
+    
+    <div class="recipes-of-the-week">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach (var recipe in Model)
+            {
+                @if (recipe.IsRecipeOfTheDay)
+                {
+                    <partial name="_RecipeCard" model="recipe" />
+                }
+            }
+        </div>
+
+    </div>
+</div>

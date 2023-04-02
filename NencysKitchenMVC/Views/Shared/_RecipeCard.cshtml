@@ -1,0 +1,22 @@
+﻿@model RecipeViewModel
+
+<div class="col">
+    <div class="card recipe-card">
+        <img src="@Model.ImageThumbnailUrl" class="card-img-top" alt="@Model.RecipeName">
+        <div class="card-body recipe-button">
+            <h4 class="d-grid">
+            </h4>
+            <div class="d-flex justify-content-between mt-2">
+                <h2 class="text-start">
+                    <a asp-controller="Recipes"
+                       asp-action="Details"
+                       asp-route-recipeId="@Model.RecipeId"
+                       class="recipe-link">@Model.RecipeName</a>
+                </h2>
+                <h5 class="text-nowrap">
+                    Za @Model.Serves osoba
+                </h5>
+            </div>
+        </div>
+    </div>
+</div>

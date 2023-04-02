@@ -1,0 +1,49 @@
+﻿<meta name="viewport" content="width=device-width" />
+<title>Nency's Kitchen</title>
+<link href='https://fonts.googleapis.com/css?family=Work+Sans' rel='stylesheet' type='text/css'>
+<script src="~/lib/jquery/jquery.js"></script>
+<script src="~/lib/bootstrap/js/bootstrap.js"></script>
+<link href="~/css/site.css" rel="stylesheet" />
+<base href="/" />
+
+
+
+<div class="container">
+
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-primary"
+             aria-label="Nency's Kitchen navigation header">
+            <div class="container-xl">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+                    <img src="Img/Nency's-Kitchen-Logo.png" width="151" height="47" class="d-inline-block align-top mb-2 mt-1"
+                         alt="Nency's Kitchen Logo">
+                </a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+                        aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a asp-controller="Home" asp-action="Index" class="nav-link">Pocetna</a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="Recipes" asp-action="List" class="nav-link">Recepti</a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="Recipes" asp-action="Create" class="nav-link">Dodaj recept</a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="Contact" asp-action="Index" class="nav-link">Kontakt</a>
+                        </li>
+                        <partial name="_LoginPartial" />
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    @RenderBody()
+</div>

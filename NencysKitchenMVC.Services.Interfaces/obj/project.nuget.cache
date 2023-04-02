@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vnR9oPfRaURFMr+5tHuEGYY3GV1tM+qLP/28Tuog6+D+HNS+8iU4P+NDuVXoSmNbf1J1HEmt9OOnB7Qun6OsIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\NencysKitchenMVC\\src\\NencysKitchenMVC.Services.Interfaces\\NencysKitchenMVC.Services.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.identity.client\\4.21.1\\microsoft.identity.client.4.21.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\obj\Debug\net6.0\NencysKitchenMVC.Services.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\obj\Debug\net6.0\NencysKitchenMVC.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\obj\Debug\net6.0\NencysKitchenMVC.Services.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\obj\Debug\net6.0\NencysKitchenMVC.Services.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\obj\Debug\net6.0\NencysKitchenMVC.Services.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\bin\Debug\net6.0\NencysKitchenMVC.Services.deps.json
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\bin\Debug\net6.0\NencysKitchenMVC.Services.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\bin\Debug\net6.0\NencysKitchenMVC.Services.pdb
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\bin\Debug\net6.0\NencysKitchenMVC.DataModel.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\bin\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\bin\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.pdb
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\bin\Debug\net6.0\NencysKitchenMVC.DataModel.pdb
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\obj\Debug\net6.0\NencysKitchenMVC.Services.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\obj\Debug\net6.0\NencysKitchenMVC.Services.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\obj\Debug\net6.0\refint\NencysKitchenMVC.Services.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\obj\Debug\net6.0\NencysKitchenMVC.Services.pdb
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services\obj\Debug\net6.0\ref\NencysKitchenMVC.Services.dll

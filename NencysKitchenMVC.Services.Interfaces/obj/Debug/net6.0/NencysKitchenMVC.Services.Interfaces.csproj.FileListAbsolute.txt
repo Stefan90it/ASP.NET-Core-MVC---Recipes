@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\obj\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\obj\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\obj\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\obj\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\obj\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\bin\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.deps.json
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\bin\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\bin\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.pdb
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\bin\Debug\net6.0\NencysKitchenMVC.DataModel.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\bin\Debug\net6.0\NencysKitchenMVC.DataModel.pdb
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\obj\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\obj\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\obj\Debug\net6.0\refint\NencysKitchenMVC.Services.Interfaces.dll
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\obj\Debug\net6.0\NencysKitchenMVC.Services.Interfaces.pdb
+C:\Users\Lenovo\source\repos\NencysKitchenMVC\src\NencysKitchenMVC.Services.Interfaces\obj\Debug\net6.0\ref\NencysKitchenMVC.Services.Interfaces.dll

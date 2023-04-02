@@ -1,0 +1,8 @@
+﻿@model IEnumerable<RecipeViewModel>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var recipe in Model)
+    {
+        <partial name="_RecipeCard" model="recipe" />
+    }
+</div>
